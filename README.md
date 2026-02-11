@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @AlvinYangZF
 - 👀 I’m interested in file system/SSD storage optimzation/Key Value/FTL
-- 🌱 I’m currently learning MySQL storage engine
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ... zifengyang7@outlook.com
 
 <!---
